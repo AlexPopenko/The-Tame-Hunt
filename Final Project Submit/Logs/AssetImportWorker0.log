@@ -1,0 +1,618 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'en' Physical Memory: 8099 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/AlexP/Desktop/College Files 2022/Mobile Programming/CW22/final-project-submit/Final Project Submit
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62130
+Successfully changed project path to: C:/Users/AlexP/Desktop/College Files 2022/Mobile Programming/CW22/final-project-submit/Final Project Submit
+C:/Users/AlexP/Desktop/College Files 2022/Mobile Programming/CW22/final-project-submit/Final Project Submit
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/AlexP/Desktop/College Files 2022/Mobile Programming/CW22/final-project-submit/Final Project Submit/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.5749
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56292
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001583 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.507 seconds
+Domain Reload Profiling:
+	ReloadAssembly (508ms)
+		BeginReloadAssembly (45ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (400ms)
+			LoadAssemblies (43ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (136ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (146ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (32ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (73ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005496 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Domain Reload Profiling:
+	ReloadAssembly (866ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (687ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (241ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (257ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (159ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1519 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.3 MB.
+System memory in use after: 70.3 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1955.
+Total: 2.228500 ms (FindLiveObjects: 0.119200 ms CreateObjectMapping: 0.054500 ms MarkObjects: 1.992200 ms  DeleteObjects: 0.061900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/BrokenVector/LowPolyDungeon
+  artifactKey: Guid(fe75cbfbde034104291466020cdefc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyDungeon using Guid(fe75cbfbde034104291466020cdefc8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa02316cf8cd12b7fc50da2117b570aa') in 0.007923 seconds 
+  Import took 0.011206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.145155 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-24.wav
+  artifactKey: Guid(657578e4be6b64dbf9b09deada272e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-24.wav using Guid(657578e4be6b64dbf9b09deada272e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a494d0bdde4844c6ec793794acd1893') in 0.122710 seconds 
+  Import took 0.125409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-30.wav
+  artifactKey: Guid(130a177e727814a2ea78a886ab72213d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-30.wav using Guid(130a177e727814a2ea78a886ab72213d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1edaa54deabf26b23f220ae32709c1bc') in 0.036667 seconds 
+  Import took 0.039027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-25.wav
+  artifactKey: Guid(5fdb13d3756c84fecac96f5a2d124370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-25.wav using Guid(5fdb13d3756c84fecac96f5a2d124370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1019fbe78d26395bff0a72de066d55') in 0.030687 seconds 
+  Import took 0.033277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-26.wav
+  artifactKey: Guid(7bd6b897eb5ca4b7d88a205c4a51640c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-26.wav using Guid(7bd6b897eb5ca4b7d88a205c4a51640c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8347bce5688bc6e032515687bf6c33b') in 0.037112 seconds 
+  Import took 0.039686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-29.wav
+  artifactKey: Guid(80e397195ea2940b69ee7bdbded856a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-29.wav using Guid(80e397195ea2940b69ee7bdbded856a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65794b2d1eab8ccd8cbde5b8e38a7c3b') in 0.042561 seconds 
+  Import took 0.045020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-31.wav
+  artifactKey: Guid(cf6c0e7fbef9449c98a0cdb5ea0c4d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-31.wav using Guid(cf6c0e7fbef9449c98a0cdb5ea0c4d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195e35b88053118e9261b148115320b0') in 0.035282 seconds 
+  Import took 0.038358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-38.wav
+  artifactKey: Guid(84e427d6b66ab4066b6a4dcd0ce819ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-38.wav using Guid(84e427d6b66ab4066b6a4dcd0ce819ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc87b462a064860cd2232a41ee7e48fa') in 0.024657 seconds 
+  Import took 0.028182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-39.wav
+  artifactKey: Guid(3becec1909f194046945d85ac1077772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-39.wav using Guid(3becec1909f194046945d85ac1077772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5c0c88768214dbe9ff3569815ac7b4b') in 0.022839 seconds 
+  Import took 0.025776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-32.wav
+  artifactKey: Guid(29bde6326b4c34ad8a12da475f79b50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-32.wav using Guid(29bde6326b4c34ad8a12da475f79b50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09393386a4dec38aa915071c5c82b5b8') in 0.025018 seconds 
+  Import took 0.028299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-35.wav
+  artifactKey: Guid(89e6bc608da7b47d4914f3d9c2484e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-35.wav using Guid(89e6bc608da7b47d4914f3d9c2484e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a23aba3c4200bd9f18582f430f41f2a4') in 0.020358 seconds 
+  Import took 0.023183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-36.wav
+  artifactKey: Guid(df729d213c4be44a9b55cd109f5cd4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-36.wav using Guid(df729d213c4be44a9b55cd109f5cd4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b636904eae328f12dea4a519598e42d2') in 0.016357 seconds 
+  Import took 0.019004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-33.wav
+  artifactKey: Guid(35fbad8cdde724f11ba6481f1e64af71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-33.wav using Guid(35fbad8cdde724f11ba6481f1e64af71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8385b24ed4ef8ecb3413647b77fd85b5') in 0.015702 seconds 
+  Import took 0.017989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-40.wav
+  artifactKey: Guid(0994c12e202f342459a4212e7287f7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-40.wav using Guid(0994c12e202f342459a4212e7287f7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cefa9b1db59bf13e35bfe5cf9a737cf7') in 0.014698 seconds 
+  Import took 0.017074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-41.wav
+  artifactKey: Guid(7e9ee6dc04a5d40d1a5dfc4beb9865e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-41.wav using Guid(7e9ee6dc04a5d40d1a5dfc4beb9865e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12263da3a1195ca8e39b99dd27328d06') in 0.016611 seconds 
+  Import took 0.019393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-37.wav
+  artifactKey: Guid(a931da70ee74947d5a047de583170ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-37.wav using Guid(a931da70ee74947d5a047de583170ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e6a9b37a18d634e2fdaa3e882cee2d1') in 0.015661 seconds 
+  Import took 0.018370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-28.wav
+  artifactKey: Guid(79180f511d89441b9aa23ccae1992fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-28.wav using Guid(79180f511d89441b9aa23ccae1992fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db53bb9ce9a61c8fd971ec5c209aa83c') in 0.015553 seconds 
+  Import took 0.018040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-34.wav
+  artifactKey: Guid(881e3f52c86c94f26a60718d35627cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-34.wav using Guid(881e3f52c86c94f26a60718d35627cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6753826200fdee82056e819407cdf539') in 0.015069 seconds 
+  Import took 0.017493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-42.wav
+  artifactKey: Guid(38a17a92b9d9748c6a1e67972041b833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-42.wav using Guid(38a17a92b9d9748c6a1e67972041b833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7884132cccefed9f67b615c69d78e6') in 0.016168 seconds 
+  Import took 0.019059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-43.wav
+  artifactKey: Guid(4b4dd7245f6104c8c8eb07ccf6b386ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-43.wav using Guid(4b4dd7245f6104c8c8eb07ccf6b386ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f01ff26e3d43714a2b941cd77c848b') in 0.015125 seconds 
+  Import took 0.017839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-47.wav
+  artifactKey: Guid(d46323e22e74e46baa241cbf48c85671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-47.wav using Guid(d46323e22e74e46baa241cbf48c85671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d0bc19daa0256b8ef3147e503d07a0') in 0.015740 seconds 
+  Import took 0.018353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-45.wav
+  artifactKey: Guid(52320e590bf774734a288886eba557ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-45.wav using Guid(52320e590bf774734a288886eba557ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '037951750d3b399f643fbb33c2eb648e') in 0.016441 seconds 
+  Import took 0.018772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-46.wav
+  artifactKey: Guid(fe0b1f9aeb45b41b089175aeeabd5d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-46.wav using Guid(fe0b1f9aeb45b41b089175aeeabd5d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c9e582c5c6068c393b0cab4b2b0268') in 0.015358 seconds 
+  Import took 0.017781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-48.wav
+  artifactKey: Guid(7e26c9daf4c32483b9c2790e662d3f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-48.wav using Guid(7e26c9daf4c32483b9c2790e662d3f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f044e1af69c1f4a9fec52e4ae02792a') in 0.015821 seconds 
+  Import took 0.018326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-49.wav
+  artifactKey: Guid(7bef0064f8567430cac22499c6b93d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-49.wav using Guid(7bef0064f8567430cac22499c6b93d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '753a591fb9785f2c49ea15942a3f4a7a') in 0.016653 seconds 
+  Import took 0.019037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-44.wav
+  artifactKey: Guid(b43d102aac6b145468dcaa94a5cccae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-44.wav using Guid(b43d102aac6b145468dcaa94a5cccae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4fcc623a806864d9c4f2941c9680773') in 0.015324 seconds 
+  Import took 0.018038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-27.wav
+  artifactKey: Guid(5039414d94a6e4e70a5ab9e8833e992a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-27.wav using Guid(5039414d94a6e4e70a5ab9e8833e992a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4e3eda605b0ae61dad3a9541962539') in 0.014274 seconds 
+  Import took 0.016511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-50.wav
+  artifactKey: Guid(79e6baad2fd414b82a6d49ce1568d2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-50.wav using Guid(79e6baad2fd414b82a6d49ce1568d2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7f1200eb23a9191198004fb80d07e5') in 0.014123 seconds 
+  Import took 0.016416 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.0 MB.
+System memory in use after: 43.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1964.
+Total: 2.588900 ms (FindLiveObjects: 0.121700 ms CreateObjectMapping: 0.073400 ms MarkObjects: 2.358200 ms  DeleteObjects: 0.034900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 49.800126 seconds.
+  path: Assets/Polygonal Particles/Assets
+  artifactKey: Guid(b2dfb8c50e48176439b23af916baa728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets using Guid(b2dfb8c50e48176439b23af916baa728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bdb625e6be82395a0587bd96e73b76e') in 0.005308 seconds 
+  Import took 0.008328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.974997 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs
+  artifactKey: Guid(0d252ab72314b3044b118b9fd9856b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs using Guid(0d252ab72314b3044b118b9fd9856b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3e001c6c664a755a83ec9608fc3294') in 0.004410 seconds 
+  Import took 0.007367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.569794 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Environment
+  artifactKey: Guid(d90c749cf0121ab4dba85d56cda9a47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Environment using Guid(d90c749cf0121ab4dba85d56cda9a47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7b91109b69040c288b73a600b5efd9') in 0.006159 seconds 
+  Import took 0.009177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.255381 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion01.prefab
+  artifactKey: Guid(b3d8264aa7d2d824a8a503e45291ddf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion01.prefab using Guid(b3d8264aa7d2d824a8a503e45291ddf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1fc4917b8cb735c995293efa55ccb2b') in 0.043730 seconds 
+  Import took 0.046504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion03.prefab
+  artifactKey: Guid(151b49b11ab5924429acc76ead6435fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion03.prefab using Guid(151b49b11ab5924429acc76ead6435fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '433f7c46fa6a38b416ab657a92c17fca') in 0.013942 seconds 
+  Import took 0.016862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion01_Mobile.prefab
+  artifactKey: Guid(d786e2d05a34bf741b1bd7fd569828cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion01_Mobile.prefab using Guid(d786e2d05a34bf741b1bd7fd569828cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '045b79055dfa431c2cce56e42abf0b1f') in 0.017386 seconds 
+  Import took 0.019893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion02_Mobile.prefab
+  artifactKey: Guid(fba3984b4d1739047b5b3e699ebda36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion02_Mobile.prefab using Guid(fba3984b4d1739047b5b3e699ebda36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c9354f50189a627648a8145f1bea4c') in 0.015723 seconds 
+  Import took 0.017956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion01_HighPerformance.prefab
+  artifactKey: Guid(bdbdcfd7c511df246af535551f842df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion01_HighPerformance.prefab using Guid(bdbdcfd7c511df246af535551f842df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dfd63cfefae0859588e06e58295355b') in 0.017219 seconds 
+  Import took 0.020183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion02_HighPerformance.prefab
+  artifactKey: Guid(95175aeab20f4d041860eca89a4ddded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion02_HighPerformance.prefab using Guid(95175aeab20f4d041860eca89a4ddded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5e6cf6b27b7133a6754ab226b18456') in 0.016362 seconds 
+  Import took 0.018817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Puff.prefab
+  artifactKey: Guid(21461e6c060baf044ac3e717ed4170cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Puff.prefab using Guid(21461e6c060baf044ac3e717ed4170cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69107f0231ceb3ed207aa78af1c4cb9b') in 0.015338 seconds 
+  Import took 0.018075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion03_HighPerformance.prefab
+  artifactKey: Guid(14cf9b5bc3f9faf4ca5ce80298f43111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion03_HighPerformance.prefab using Guid(14cf9b5bc3f9faf4ca5ce80298f43111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbfd6f44c7c8fdabfe757b4763918dc8') in 0.014920 seconds 
+  Import took 0.017800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion02.prefab
+  artifactKey: Guid(2dc5347a44240ea4597cafb2d1d7c160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion02.prefab using Guid(2dc5347a44240ea4597cafb2d1d7c160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6565579aab8470f480d20233f5e0c6') in 0.018099 seconds 
+  Import took 0.020524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion03_Mobile.prefab
+  artifactKey: Guid(42b5a7c17e87672438c3602c0b701f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion03_Mobile.prefab using Guid(42b5a7c17e87672438c3602c0b701f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70437e1c5a0ce0d00352faafaf35527') in 0.018487 seconds 
+  Import took 0.021469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Puff_HighPerformance.prefab
+  artifactKey: Guid(250e86a7819757142b6510e936ec4abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Puff_HighPerformance.prefab using Guid(250e86a7819757142b6510e936ec4abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ad12618f7b49c43ae5bb8cc705c83c') in 0.012732 seconds 
+  Import took 0.015230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.924731 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Puff_Mobile.prefab
+  artifactKey: Guid(a12791d0a94e4c140ac99bd147d6518e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/Puff_Mobile.prefab using Guid(a12791d0a94e4c140ac99bd147d6518e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1476d91c042a0727fe1b3a3536f1aa') in 0.015328 seconds 
+  Import took 0.017993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Explosions/PuffLarge.prefab
+  artifactKey: Guid(045d5fbbf8161ea478959fe3c8e41207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Explosions/PuffLarge.prefab using Guid(045d5fbbf8161ea478959fe3c8e41207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170cdd5af952e268e658da9d8fe171d4') in 0.012192 seconds 
+  Import took 0.014897 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Domain Reload Profiling:
+	ReloadAssembly (828ms)
+		BeginReloadAssembly (97ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (677ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (253ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (238ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (147ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1513 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.3 MB.
+System memory in use after: 73.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1966.
+Total: 2.237800 ms (FindLiveObjects: 0.146900 ms CreateObjectMapping: 0.056300 ms MarkObjects: 1.995900 ms  DeleteObjects: 0.038100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8.751219 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Fire/FireArea_Mobile.prefab
+  artifactKey: Guid(e064b74d645658241ac223a448daeb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Fire/FireArea_Mobile.prefab using Guid(e064b74d645658241ac223a448daeb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d6b0fe94c3e997194e540ee4ab85be3') in 0.058603 seconds 
+  Import took 0.061462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Fire/Flame_HighPerformance.prefab
+  artifactKey: Guid(6161eded44c75044fbdbdb73f05ecc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Fire/Flame_HighPerformance.prefab using Guid(6161eded44c75044fbdbdb73f05ecc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '391ec705c3852dd1ecfcd4c244f63357') in 0.036314 seconds 
+  Import took 0.038659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Fire/FireBall_HighPerformance.prefab
+  artifactKey: Guid(2492a38f2c3a20f4695d374ded8a8981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Fire/FireBall_HighPerformance.prefab using Guid(2492a38f2c3a20f4695d374ded8a8981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35417133500fc76fa130755304ef22a2') in 0.042707 seconds 
+  Import took 0.045317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Fire/FireBall.prefab
+  artifactKey: Guid(1b85934f3ab9f88409e04178ece71a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Fire/FireBall.prefab using Guid(1b85934f3ab9f88409e04178ece71a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a37524ef1b3dd3bd6b032bd34c6256a') in 0.042510 seconds 
+  Import took 0.045200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Fire/Flame_Mobile.prefab
+  artifactKey: Guid(0276da4f7f58f52488624adb26f2ec92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Fire/Flame_Mobile.prefab using Guid(0276da4f7f58f52488624adb26f2ec92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff2ef39afac24c3ab68c42efe4df740') in 0.038282 seconds 
+  Import took 0.041000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Fire/FireBall_Mobile.prefab
+  artifactKey: Guid(467cd1946a21a48419880914116ce12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Fire/FireBall_Mobile.prefab using Guid(467cd1946a21a48419880914116ce12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75d1f2fcbd0365474e4248e1dd64fd5') in 0.040496 seconds 
+  Import took 0.043336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Polygonal Particles/Assets/Prefabs/Fire/Flame.prefab
+  artifactKey: Guid(ab22dfee5ddd2634f991aee1f95f050f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygonal Particles/Assets/Prefabs/Fire/Flame.prefab using Guid(ab22dfee5ddd2634f991aee1f95f050f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '240dd2310d06c4d34a94c93a56f33763') in 0.042373 seconds 
+  Import took 0.045819 seconds .
+
