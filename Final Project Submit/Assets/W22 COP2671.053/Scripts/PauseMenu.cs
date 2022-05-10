@@ -36,10 +36,10 @@ GamePaused = true;
 
     public void QuitGame(){
         //remove if building
-        UnityEditor.EditorApplication.isPlaying = false;
+       // UnityEditor.EditorApplication.isPlaying = false;
         
         //enable if building
-        //Application.Quit();
+        Application.Quit();
 
     }
 }

@@ -11,9 +11,9 @@ public class Menu : MonoBehaviour
    }
    public void QuitGame(){
        //Remove if building
-       UnityEditor.EditorApplication.isPlaying = false;
+       //UnityEditor.EditorApplication.isPlaying = false;
 
         //enable if building
-       //Application.Quit();
+       Application.Quit();
    }
 }
