@@ -2,7 +2,7 @@
 Alexandr Popenko
 4-20-2022
 
-## GAME TITLE
+## The Tame Hunt
 
 
 **Project requirements**
